@@ -31,4 +31,4 @@ locations from seven countries.
 * [RetinaNet blog](https://towardsdatascience.com/object-detection-on-aerial-imagery-using-retinanet-626130ba2203)
 * [Faster-RCNN blog](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-datafrom-googles-open-images-125f62b9141a)
 * [YOLO blog](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
- Faster RCNN, YOLO, RetinaNet
+ 
