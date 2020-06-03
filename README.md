@@ -2,8 +2,8 @@
  Repository contains ACV projects of Object Detection
  # Background Knowledge:
   Def: 
-      "Object Detection is modeled as a classification problem where we take windows of fixed sizes from input image at all the possible locations feed these patches to an image classifier. Each window is fed to the classifier which predicts the class of the object in the
-window( or background if none is present). Hence, we know both the class and location of the objects in the image."
+      "Object Detection is modeled as a classification problem where we take windows of fixed sizes from input image at all the possible locations feed these patches to an image classifier. Each window is fed to the classifier which predicts the class of the object in the window( or background if none is present). Hence, we know both the class and location of the objects in the image."
+![](/Images/ObjectDetectionExample.JPG)
  # Why
   * To learn about the semantic Object Detection pipeline
   * Implementation of Object Detection pipeline on a real world dataset
